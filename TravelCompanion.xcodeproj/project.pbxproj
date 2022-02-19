@@ -14,6 +14,7 @@
 		D9E9107C27B2E69D001FAB9E /* TravelCompanion.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D9E9107A27B2E69D001FAB9E /* TravelCompanion.xcdatamodeld */; };
 		D9E9107E27B2E69F001FAB9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9E9107D27B2E69F001FAB9E /* Assets.xcassets */; };
 		D9E9108127B2E69F001FAB9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9E9107F27B2E69F001FAB9E /* LaunchScreen.storyboard */; };
+		D9E9108927B30644001FAB9E /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E9108827B30644001FAB9E /* ListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D9E9107D27B2E69F001FAB9E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9E9108027B2E69F001FAB9E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D9E9108227B2E69F001FAB9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9E9108827B30644001FAB9E /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				D9E9107327B2E69D001FAB9E /* SceneDelegate.swift */,
 				D9E9107527B2E69D001FAB9E /* ViewController.swift */,
 				D9E9107727B2E69D001FAB9E /* Main.storyboard */,
+				D9E9108827B30644001FAB9E /* ListViewController.swift */,
 				D9E9107D27B2E69F001FAB9E /* Assets.xcassets */,
 				D9E9107F27B2E69F001FAB9E /* LaunchScreen.storyboard */,
 				D9E9108227B2E69F001FAB9E /* Info.plist */,
@@ -144,6 +147,7 @@
 				D9E9107627B2E69D001FAB9E /* ViewController.swift in Sources */,
 				D9E9107227B2E69D001FAB9E /* AppDelegate.swift in Sources */,
 				D9E9107C27B2E69D001FAB9E /* TravelCompanion.xcdatamodeld in Sources */,
+				D9E9108927B30644001FAB9E /* ListViewController.swift in Sources */,
 				D9E9107427B2E69D001FAB9E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
